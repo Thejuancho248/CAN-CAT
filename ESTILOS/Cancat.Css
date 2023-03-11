@@ -1,0 +1,230 @@
+@font-face {
+    font-family:Holy;
+    src: url(../ELEMENTOS/Holyfat.ttf);
+}
+
+body{
+    background-image: url(../ELEMENTOS/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    width: 50%;
+}
+
+.col-menu{
+    height: fit-content;
+}
+.menu{
+    font-family: Holy;
+    font-size: 3rem;
+}
+
+.nav{
+    background-color: white;
+}
+
+.nav-item:hover{
+color: white;
+background-color: #7dfa00;
+text-decoration: none;
+}
+
+.nav-link{
+color: #7dfa00;
+}
+
+.nav-link:hover{
+color: white;
+}
+
+.img1{
+    width: 100%;
+}
+
+.div-title{
+    margin-bottom: 2rem;
+}
+
+.titulo-1{
+font-weight: bold;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #7dfa00;
+font-size: 55px;
+}
+
+.titulo-2{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #7dfa00;
+font-size: 54px;
+}
+
+.texto-1{
+  width: 83%;  
+ margin-left: 19%;
+ margin-top: -4%;
+ color: rgb(0, 200, 255);
+}
+
+.div-btn{
+    background-color: rgb(20, 188, 20);
+    border-radius: 70%;
+    width: 40%;
+    height: 7rem;
+    align-items: center;
+}
+.btn{
+    position: relative;
+    right: 2rem;
+    justify-content: center;
+}
+.frase-btn{
+    width: 100%;
+}
+
+
+.div-title-2{
+    flex-direction: column;
+    width: 100%;
+    color: white;
+}
+.titulo-3{
+    background-color: rgb(255 255 255 / 65%);
+    font-family: Holy;
+    color: #7dfa00;
+}
+
+.cont-text-2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: justify;
+    background-color: #0dec0d75;
+}
+.texto-2{
+    margin: 1.5rem;
+}
+
+.column-3{
+    position: relative;
+    top: 3rem;
+}
+
+.file-mp4{
+width: 25.5rem;
+position: relative;
+left: 1rem;
+}
+
+.video{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+
+.div-title-3{
+    justify-content: center;
+}
+
+.container-texto-3{
+    background-color: #7dfa00;
+    position: relative;
+    top: 2rem;
+}
+
+
+.clmn-carrusel{
+    display: flex;
+    justify-content: center;
+    margin: 1.2rem;
+    
+}
+
+#carouselExampleIndicators{
+    width: 35rem;
+}
+
+.theme{
+    background-color: #7dfa00;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.list{
+    margin: 1.5rem;
+}
+
+.titulo-4{
+    font-family: Holy;
+    color: #7dfa00;
+    text-align: center;
+}
+
+.icons{
+    justify-content: center;
+}
+
+.icons-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+.facebook-icon:hover{
+     color: rgba(255, 255, 255, 0.219);
+      mix-blend-mode: color;
+}
+
+.facebook-icon{
+    width: 5%;
+}
+
+.instagram-icon{
+    width: 5%;
+}
+.instagram-icon:hover{
+    color: rgba(255, 255, 255, 0.219);
+    mix-blend-mode: color;
+}
+
+.footer{
+    flex-direction: column;
+    align-items: center;
+}
+.pie{
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+}
+
+.fila{
+    background-color: rgba(240, 248, 255, 0.776);
+    width: 100%;
+}
+
+.cuidalos:hover{
+    filter: brightness(150%);
+}
+
+.aprende:hover{
+    filter: brightness(150%);
+}
+
+.tiempo:hover{
+    filter: brightness(150%);
+}
+
+li:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+.div-btn:hover{
+    filter: brightness(150%);
+}
+
+
+
+
